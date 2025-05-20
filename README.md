@@ -136,21 +136,28 @@ Desenvolvedores:
 
 ## 8 - João Silva
 
-![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+<img src="https://github.com/AspoWorks/chatExpo-TADS047/blob/main/img/Captura%20de%20tela%202025-05-19%20210133.png?raw=true">
 
-**Quem sou eu:**
 
-🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+**Quem sou eu:**</br>
+Nome : João Silva</br>
+Idade : 34 anos </br>
+Graduação : Licenciatura em Física (Universidade  federal de pernambuco - Ufpe) </br>
+Especialidades com Tecnologia:  Ensino de Física com apoio de plataformas digitais e recursos de realidade aumentada. </br>
+Desenvolvimento de conteúdos interativos para aprendizado online. </br>
+Uso de simulações computacionais para experimentos de física. </br>
+Implementação de metodologias ativas, como Flipped Classroom, utilizando ferramentas tecnológicas.</br>
+Programação em Python e desenvolvimento de aplicações educacionais.  </br>
+Estado : Reside em Ibura, Recife - PE</br>
 
-🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1noLEerBrM3j03VMBAshbysoUL-zJSYbS?usp=sharing)
+
+🔗 [Veja o meu processo de criação](https://miro.com/welcomeonboard/VDZndVRNQ0VZOElEVnVTU1FCYXNQeTJ3aWIyeGpZMGNKL1oxVGdMVWVXMnRYZzB5YTFXOU02dFZoak8raWNxU3RJWUJPMUFTWHRkbEY5MTRuRHNmdXlKSWNaZWNqK1hmS3c4dkZ6empBb2xNZUFtTXJXNDRsYVFmVTFaeWs0ajJBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=101757694761)
 
 Desenvolvedores:
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
+- [Artur Rafel Sales Silva](https://github.com/AspoWorks)
+- [Caio Sabino Coelho](https://github.com/CaioSabinoC)
+- [Rafael Barbosa](https://github.com/rafasilvc)
 
 ## 9 - TechBot
 
