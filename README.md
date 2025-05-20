@@ -142,7 +142,7 @@ Desenvolvedores:
 **Quem sou eu:**</br>
 Nome : João Silva</br>
 Idade : 34 anos </br>
-Graduação : Licenciatura em Física (Universidade  federal de pernambuco - Ufpe) </br>
+Graduação : Licenciatura em Física (Universidade  federal de pernambuco - UFPE) </br>
 Especialidades com Tecnologia:  Ensino de Física com apoio de plataformas digitais e recursos de realidade aumentada. </br>
 Desenvolvimento de conteúdos interativos para aprendizado online. </br>
 Uso de simulações computacionais para experimentos de física. </br>
