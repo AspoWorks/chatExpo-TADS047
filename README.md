@@ -136,7 +136,8 @@ Desenvolvedores:
 
 ## 8 - João Silva
 
-<img src="https://github.com/AspoWorks/chatExpo-TADS047/blob/main/img/Captura%20de%20tela%202025-05-19%20210133.png?raw=true">
+
+![Algoritmos](https://github.com/AspoWorks/chatExpo-TADS047/blob/main/img/Captura%20de%20tela%202025-05-19%20210133.png?raw=true)
 
 
 **Quem sou eu:**</br>
